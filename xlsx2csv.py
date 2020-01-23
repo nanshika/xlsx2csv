@@ -1,7 +1,4 @@
-#!/usr/bin/python3
-# -*- coding: UTF8 -*-
 # python Export_all.py abc.xlsx
-
 from optparse import OptionParser
 import openpyxl
 import re
