@@ -1,4 +1,9 @@
-*.log
 *.lnk
+*.log
+.git
+.vscode
 Copy*conflict*
+__pycache__
+build
+dist
 ignore
