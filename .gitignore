@@ -1,5 +1,6 @@
 *.lnk
 *.log
+*.bak
 .git
 .vscode
 Copy*conflict*
